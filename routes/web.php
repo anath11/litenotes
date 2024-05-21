@@ -8,6 +8,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+
+// THIS ROUTLE IS NOT CURRENTLY IN USE
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
