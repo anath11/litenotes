@@ -3,9 +3,8 @@
 This is a simple note taking web app with CRUD functionlaity, this app runs laravel on backend and mysql database to store the user data. 
 </p>
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## To use on your machine
+Pull the conde on to your machine useing git pull, once the file is downloaded make sure to edit the .env file accoding to the database you have setup in your machine.
 
 ## Code of Conduct
 
