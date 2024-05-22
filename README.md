@@ -4,7 +4,16 @@ This is a simple note taking web app with CRUD functionlaity, this app runs lara
 </p>
 
 ## To use on your machine
-Pull the conde on to your machine useing git pull, once the file is downloaded make sure to edit the .env file accoding to the database you have setup in your machine.
+Pull the code on to your machine useing git pull, once the file is downloaded make sure to edit the .env file accoding to the database you have setup in your machine.
+
+## App Features
+Summary about app:
+<li> Breeze for authentication
+<li> Tailwind css for styling
+<li> Resources contrller with CRUD operations
+<li> Blade components and directives
+<li> Route model binding
+<li> Soft delte models
 
 ## Code of Conduct
 
