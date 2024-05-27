@@ -1,5 +1,5 @@
 ## Note Taking app
-
+    Litenote is a web application built on the Laravel framework, providing seamless CRUD (Create, Read, Update, Delete) functionality. It uses MySQL as its database system, ensuring efficient and reliable data management.  
 ## Installing
 1. To use these exercise files, you must have the following installed:
 	- Docker
